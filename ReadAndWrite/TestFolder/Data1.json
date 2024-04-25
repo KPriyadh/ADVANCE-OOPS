@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "priya",
+    "FatherName": "kesavan",
+    "Gender": 2,
+    "DOB": "2001-07-29T00:00:00",
+    "Mark": 100
+  },
+  {
+    "Name": "Sai",
+    "FatherName": "thiru",
+    "Gender": 1,
+    "DOB": "2002-07-29T00:00:00",
+    "Mark": 100
+  },
+  {
+    "Name": "Riya",
+    "FatherName": "kesavan",
+    "Gender": 2,
+    "DOB": "2001-07-29T00:00:00",
+    "Mark": 100
+  }
+]

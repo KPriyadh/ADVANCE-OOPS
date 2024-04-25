@@ -1,0 +1,15 @@
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\bin\Debug\net7.0\DictionaryDS.exe
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\bin\Debug\net7.0\DictionaryDS.deps.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\bin\Debug\net7.0\DictionaryDS.runtimeconfig.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\bin\Debug\net7.0\DictionaryDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\bin\Debug\net7.0\DictionaryDS.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.csproj.AssemblyReference.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.AssemblyInfoInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.AssemblyInfo.cs
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.csproj.CoreCompileInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\refint\DictionaryDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\DictionaryDS.genruntimeconfig.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\DictionaryDS\obj\Debug\net7.0\ref\DictionaryDS.dll

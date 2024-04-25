@@ -1,0 +1,15 @@
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.csproj.AssemblyReference.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.AssemblyInfoInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.AssemblyInfo.cs
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.csproj.CoreCompileInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\bin\Debug\net7.0\ListDS.exe
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\bin\Debug\net7.0\ListDS.deps.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\bin\Debug\net7.0\ListDS.runtimeconfig.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\bin\Debug\net7.0\ListDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\bin\Debug\net7.0\ListDS.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\refint\ListDS.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ListDS.genruntimeconfig.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\ListDS\obj\Debug\net7.0\ref\ListDS.dll

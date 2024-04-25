@@ -1,0 +1,15 @@
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll
